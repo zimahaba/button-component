@@ -1,3 +1,4 @@
+
 button {
   border-radius: 8px;
   margin: 2px;
@@ -67,6 +68,25 @@ button {
 
 .text:hover {
   background-color: #eaf0ff;
+}
+
+/* Colors */
+.default-color {
+  color: #3f3f3f;
+  background-color: #e0e0e0;
+}
+
+.primary-color {
+  color: #3d5afe;
+  background-color: #ffffff;
+}
+
+.secondary-color {
+
+}
+
+.danger-color {
+
 }
 
 /* Sizes */
